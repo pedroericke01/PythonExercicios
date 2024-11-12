@@ -1,0 +1,25 @@
+# Progressão Aritmética: consiste em uma sequencia de numeros, onde a diferença
+# será sempre a mesma(constante):
+
+# 1-a partir do 2 elemento dessa sequencia, conseguimos perseber a diferença entre os
+# 1° e 2° termos essa diferença se chama: Razão da progressão aritmética.
+# encontramos a razão de ume progressão através da soma entre o 1 e 2 termo(numero).
+
+# 2- Classificação da progressão aritmetica:
+# 1-Constante: Não tem diferença entre os termos.ex:(2,2,2,...) R=0
+# 2-Crescente: a Razão entre os termos sempre será uma constante crescente.ex:(2,5,8,...)R=+3
+# 3-Descrescente: A razão entre os termos será uma constante Decrescente. ex:(8,4,2,0)R=-2
+
+# OBSERVAÇÃO:
+# Razão: Diferença constante entre os termos existente na sequência de numeros.
+# Termo: Localização de um termo específico nessa sequencia de numeros, como os Indices das
+# Estruturas de Dados Listas. no entanto a contagem dos índices Começa de 1 a N.
+
+# para mim encontrar o valor EXATO de um índice nessa sequencia numerica:
+# eu preciso dos seguintes dados:
+# 1-Valor do Primeiro termo
+# 2-A razão dessa Progresão numérica
+# 3-O numero do termo que eu desejo identificar#
+
+# Após isso preciso formar a seguinte formula:
+# an = a1 + (n - 1) . r #
